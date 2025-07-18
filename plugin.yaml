@@ -1,0 +1,21 @@
+# Worms 2025 imagery
+# Emilius123
+# 2025-07-18
+
+---
+id: imagery_worms-2025
+name: "Worms 2025 imagery"
+description: "2025 Aerial imagery of Worms, Germany; 6cm/px"
+version: 1.0
+author: "Emilius123"
+icon: plugin.png
+homepage: "https://github.com/coolultra1/Every-Door-Worms-2025"
+
+imagery:
+  worms-2025-ed:
+    name: "Worms 2025"
+    icon: plugin.png
+    url: "https://geoportal-worms.de/ogc/wms/luftbild2025?FORMAT=image/png&TRANSPARENT=TRUE&VERSION=1.3.0&SERVICE=WMS&REQUEST=GetMap&LAYERS=271B0BB08C50468699E13C34059F4A38&STYLES=&CRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}"
+    type: wms
+    attribution: "© 2025 Nibelungenstadt Worms"
+...
