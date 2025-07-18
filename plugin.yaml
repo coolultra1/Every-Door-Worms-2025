@@ -10,6 +10,7 @@ version: 1.0
 author: "Emilius123"
 icon: plugin.png
 homepage: "https://github.com/coolultra1/Every-Door-Worms-2025"
+experimental: false
 
 imagery:
   worms-2025-ed:
